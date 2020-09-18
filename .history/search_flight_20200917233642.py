@@ -14,4 +14,5 @@ class SearchFlights:
             data = response.json()
     
     def __str__(self):
-        return f"this is the cheapest flights available:{...}"
+        return f"this is the cheapest flights available:{}"
+        
